@@ -7,11 +7,11 @@ data_analyser is a Python package for generating comprehensive profiling reports
 
 ### Install
 ```cmd
-pip install data_analyser
+pip install leo-data-analyser==1.0.0
 ```
 or
 ```cmd
-conda install -c conda-forge data_analyser
+conda install -c conda-forge leo-data-analyser==1.0.0
 ```
 ### Start profiling
 
@@ -80,7 +80,7 @@ profile.to_file("your_report.json")
 You can install using the `pip` package manager by running:
 
 ```sh
-pip install -U data_analyser
+pip install leo_data_analyser
 ```
 
 #### Extras
@@ -94,7 +94,7 @@ The package declares "extras", sets of additional dependencies.
 Install these with e.g.
 
 ```sh
-pip install -U data_analyser[notebook,unicode,pyspark]
+pip install -U leo_data_analyser[notebook,unicode,pyspark]
 ```
 
 
