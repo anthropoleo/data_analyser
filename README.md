@@ -1,6 +1,7 @@
 # Data_analyser
 
-data_analyser is a Python package for generating comprehensive profiling reports from pandas DataFrames, helping you quickly understand your data's structure and quality.
+data_analyser is a Python package for generating comprehensive profiling reports from pandas DataFrames based on the ydata_profiling package, helping you quickly understand your data's structure and quality.
+
 
 
 ## ▶️ Quickstart
