@@ -109,7 +109,11 @@ Shoot me an email @ leandroofalero@outlook.com
 
 ## 🤝🏽 Contributing
 
-A big thank you to all the team at Ydata-profiling in whose work I based this package
+I'm excited to welcome contributions to this project! Currently, the visualisations included in the reports are based on pandas and its associated libraries. However, I'm planning to migrate some of these to Plotly for enhanced interactivity and visual appeal.
+
+If you are passionate about data visualisation, your expertise would be valuable. Whether it's refactoring existing plots, adding new features, or improving the overall visual experience, your contributions are very much appreciated.
+
+Feel free to fork the repository, make your changes, and submit a pull request. Let's collaborate and make this project even better together!
 
 
 ## License 
