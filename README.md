@@ -12,7 +12,7 @@ pip install leo_data_analyser==1.0.0
 ```
 or
 ```cmd
-conda install -c conda-forge leo-data-analyser==1.0.0
+conda install -c conda-forge leo_data_analyser==1.0.0
 ```
 ### Start profiling
 
