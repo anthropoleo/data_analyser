@@ -8,7 +8,7 @@ data_analyser is a Python package for generating comprehensive profiling reports
 
 ### Install
 ```cmd
-pip install leo-data-analyser==1.0.0
+pip install leo_data_analyser==1.0.0
 ```
 or
 ```cmd
